@@ -7,5 +7,7 @@ public enum Category {
 	AVENTURA,
 	FANTASIA,
 	COMEDIA,
-	SUSPENSE
+	SUSPENSE,
+	INFANTIL,
+	PARANORMAL
 }
